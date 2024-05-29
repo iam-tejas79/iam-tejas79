@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iam-tejas79
-- 👀 I’m interested in Web Development 
+- 👀 Passionate about Full Stack Development
 - 🌱 I’m currently learning Frontend 
-- 💞️ I’m looking to collaborate on open-source 
+- 💞️ I'm also a huge open-source fan and love contributing to it. 
+
 
 
 <!---
