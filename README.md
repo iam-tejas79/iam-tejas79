@@ -1,5 +1,4 @@
-- 👀 Passionate about Full Stack Development
-- 🌱 I’m currently learning Frontend 
+- 👀 Passionate about Full Stack Development.
 - 💞️ I'm also a huge open-source fan and love contributing to it. 
 
 
